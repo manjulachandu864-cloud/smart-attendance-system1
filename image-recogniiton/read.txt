@@ -1,0 +1,9 @@
+1-> create a image recognition to recognize qr 
+import pyzbar 
+
+
+
+
+
+
+

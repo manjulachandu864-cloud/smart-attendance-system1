@@ -1,0 +1,4 @@
+import face_recognition
+code list known
+find encodings(images)
+
